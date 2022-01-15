@@ -1,1 +1,1 @@
-console.log('wosihjs2');
+console.log('我是被请求的js内容');
